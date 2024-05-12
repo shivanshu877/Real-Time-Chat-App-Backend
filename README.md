@@ -52,6 +52,8 @@ Get Api Collection:
 | /user/update/status  | PATCH  | Update the current user's status (AVAILABLE or BUSY)   |
 | /signup               | POST   | Create a new user account                     |
 | /signin               | POST   | Sign in to an existing user account           |
+| /api/messages         | POST   | Sign in to an existing user account           |
+
 
 ## 🔌 Socket.io Events
 | Event               | Description                                        |
