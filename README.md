@@ -1,3 +1,6 @@
+Name - Shivanshu
+Reg No - 12109361
+
 # Chat App with Busy Status and AI Response
 
 This is a real-time chat application built with Node.js, Express, Socket.io, and MongoDB. The app features a busy status for users and integrates Google's Gemini Pro model to generate automated responses when a user is busy.
