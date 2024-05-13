@@ -39,6 +39,11 @@ https://github.com/shivanshu877/Real-Time-Chat-App-Backend.git
  ```
 ## 💻 Frontend Usage
 Go to the frontend directory and run `chat_app.exe`.
+
+Checkout Frontend Code:
+```bash
+https://github.com/shivanshu877/Real-Time-Chat-App-Frontend-Flutter
+```
 ## 💻 Backend Usage
 1. Access the application in your browser (e.g., http://localhost:3000).
 2. Sign up for a new account or sign in to an existing one.
